@@ -161,6 +161,6 @@ The variable `sub_cost` (for substitution cost) is the same as `rep_cost`; repla
 The minimum path from the lower right final position where "EER" has been replaced by "NEAR" back to the start provides a starting point for the optional 'backtrace' algorithm. Get the minimum amount of edits required given a source string and a target string.
 
 Autocorrect Model Demo:
-![Output](images/output.PNG) Output
+![Output](images/output.png) Output
 
 ---
